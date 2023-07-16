@@ -1,4 +1,5 @@
 # program2.java
+# generates a series of numbers
 
 import java.util.Scanner;
 
